@@ -45,7 +45,7 @@ public class Lab8TakeOne {
 				battingAveragePieceOne = battingAveragePieceOne + 1;
 
 			}
-
+//test
 		}
 
 		System.out.println(battingAveragePieceOne / userInput);
